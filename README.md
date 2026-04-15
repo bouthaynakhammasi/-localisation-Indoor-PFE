@@ -41,6 +41,19 @@ Ce projet vise à créer une application de localisation intérieure avec Unity.
 
 Le dépôt contient un `.gitignore` adapté aux projets Unity pour éviter de versionner les fichiers générés automatiquement, par exemple `Library/`, `Temp/`, `Obj/`, `UserSettings/`, etc.
 
+## Technologies
+
+- Unity Engine
+- Unity Package Manager
+- Scènes Unity (`.unity`)
+- Ressources de localisation intérieure (matériaux, textures, JSON)
+
+## Architecture
+
+- `Assets/Scenes/` : contient la scène principale de démonstration.
+- `Assets/Resources/` : contient les données et ressources utilisées par le projet.
+- `ProjectSettings/` : configuration du projet Unity et des paramètres d'exécution.
+
 ## À améliorer
 
 - Préciser la version Unity utilisée pour le projet.
