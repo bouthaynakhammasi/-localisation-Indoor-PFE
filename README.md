@@ -54,12 +54,19 @@ Le dépôt contient un `.gitignore` adapté aux projets Unity pour éviter de ve
 - `Assets/Resources/` : contient les données et ressources utilisées par le projet.
 - `ProjectSettings/` : configuration du projet Unity et des paramètres d'exécution.
 
+## Captures d’écran
+
+- `docs/screenshots/scene1.png` : capture de l’interface principale du projet.
+- `docs/screenshots/scene2.png` : capture de la détection/localisation intérieure.
+
+> Ajoute les captures d’écran dans le dossier `docs/screenshots/` pour compléter la documentation.
+
 ## À améliorer
 
 - Préciser la version Unity utilisée pour le projet.
 - Ajouter une description détaillée de l’algorithme de localisation.
 - Documenter le workflow de test et de build.
-- Éventuellement ajouter des captures d’écran ou une vidéo de démonstration.
+- Éventuellement ajouter une vidéo de démonstration.
 
 ## Contact
 
