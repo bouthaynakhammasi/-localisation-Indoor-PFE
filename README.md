@@ -6,6 +6,10 @@ Projet Unity de localisation intérieure pour le PFE.
 
 Ce projet vise à créer une application de localisation intérieure avec Unity. Il contient les scènes, ressources et paramètres nécessaires pour exécuter la démonstration dans un environnement Unity.
 
+## Description
+
+Localisation Indoor PFE est un projet de fin d'études qui simule la navigation et le positionnement à l’intérieur d’un bâtiment. Il intègre des scènes Unity, des ressources de données et des outils de visualisation pour tester des algorithmes de localisation en intérieur.
+
 ## Fonctionnalités
 
 - Scène de démonstration Unity prête à l'emploi
